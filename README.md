@@ -1,2 +1,2 @@
-# Credit_Scoring
-Credit scoring modeling
+# Credit Scoring
+Credit scoring has become the main issue for banking and financial institutes for years. The traditional methods have reached the problem and limitation in the recent decades that the size of data has grown rapidly. In return, a number of recent studies in economics and finance literature have focused on using advanced techniques in machine learning to leverage the problems in their area. 
